@@ -1,0 +1,11 @@
+D:\programacion 1\practica\E-R ejercicio 5\E-R ejercicio 5\bin\Debug\netcoreapp2.0\E-R ejercicio 5.deps.json
+D:\programacion 1\practica\E-R ejercicio 5\E-R ejercicio 5\bin\Debug\netcoreapp2.0\E-R ejercicio 5.runtimeconfig.json
+D:\programacion 1\practica\E-R ejercicio 5\E-R ejercicio 5\bin\Debug\netcoreapp2.0\E-R ejercicio 5.runtimeconfig.dev.json
+D:\programacion 1\practica\E-R ejercicio 5\E-R ejercicio 5\bin\Debug\netcoreapp2.0\E-R ejercicio 5.dll
+D:\programacion 1\practica\E-R ejercicio 5\E-R ejercicio 5\bin\Debug\netcoreapp2.0\E-R ejercicio 5.pdb
+D:\programacion 1\practica\E-R ejercicio 5\E-R ejercicio 5\obj\Debug\netcoreapp2.0\E-R ejercicio 5.csprojResolveAssemblyReference.cache
+D:\programacion 1\practica\E-R ejercicio 5\E-R ejercicio 5\obj\Debug\netcoreapp2.0\E-R ejercicio 5.csproj.CoreCompileInputs.cache
+D:\programacion 1\practica\E-R ejercicio 5\E-R ejercicio 5\obj\Debug\netcoreapp2.0\E-R ejercicio 5.AssemblyInfoInputs.cache
+D:\programacion 1\practica\E-R ejercicio 5\E-R ejercicio 5\obj\Debug\netcoreapp2.0\E-R ejercicio 5.AssemblyInfo.cs
+D:\programacion 1\practica\E-R ejercicio 5\E-R ejercicio 5\obj\Debug\netcoreapp2.0\E-R ejercicio 5.dll
+D:\programacion 1\practica\E-R ejercicio 5\E-R ejercicio 5\obj\Debug\netcoreapp2.0\E-R ejercicio 5.pdb

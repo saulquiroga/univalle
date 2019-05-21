@@ -1,0 +1,22 @@
+D:\programacion 1\practica\E-R ejercicio 2\E-R ejercicio 2\bin\Debug\netcoreapp2.0\E-R ejercicio 2.deps.json
+D:\programacion 1\practica\E-R ejercicio 2\E-R ejercicio 2\bin\Debug\netcoreapp2.0\E-R ejercicio 2.runtimeconfig.json
+D:\programacion 1\practica\E-R ejercicio 2\E-R ejercicio 2\bin\Debug\netcoreapp2.0\E-R ejercicio 2.runtimeconfig.dev.json
+D:\programacion 1\practica\E-R ejercicio 2\E-R ejercicio 2\bin\Debug\netcoreapp2.0\E-R ejercicio 2.dll
+D:\programacion 1\practica\E-R ejercicio 2\E-R ejercicio 2\bin\Debug\netcoreapp2.0\E-R ejercicio 2.pdb
+D:\programacion 1\practica\E-R ejercicio 2\E-R ejercicio 2\obj\Debug\netcoreapp2.0\E-R ejercicio 2.csprojResolveAssemblyReference.cache
+D:\programacion 1\practica\E-R ejercicio 2\E-R ejercicio 2\obj\Debug\netcoreapp2.0\E-R ejercicio 2.csproj.CoreCompileInputs.cache
+D:\programacion 1\practica\E-R ejercicio 2\E-R ejercicio 2\obj\Debug\netcoreapp2.0\E-R ejercicio 2.AssemblyInfoInputs.cache
+D:\programacion 1\practica\E-R ejercicio 2\E-R ejercicio 2\obj\Debug\netcoreapp2.0\E-R ejercicio 2.AssemblyInfo.cs
+D:\programacion 1\practica\E-R ejercicio 2\E-R ejercicio 2\obj\Debug\netcoreapp2.0\E-R ejercicio 2.dll
+D:\programacion 1\practica\E-R ejercicio 2\E-R ejercicio 2\obj\Debug\netcoreapp2.0\E-R ejercicio 2.pdb
+E:\univalle\practica\E-R ejercicio 2\E-R ejercicio 2\obj\Debug\netcoreapp2.0\E-R ejercicio 2.csprojResolveAssemblyReference.cache
+E:\univalle\practica\E-R ejercicio 2\E-R ejercicio 2\obj\Debug\netcoreapp2.0\E-R ejercicio 2.csproj.CoreCompileInputs.cache
+E:\univalle\practica\E-R ejercicio 2\E-R ejercicio 2\obj\Debug\netcoreapp2.0\E-R ejercicio 2.AssemblyInfoInputs.cache
+E:\univalle\practica\E-R ejercicio 2\E-R ejercicio 2\obj\Debug\netcoreapp2.0\E-R ejercicio 2.AssemblyInfo.cs
+E:\univalle\practica\E-R ejercicio 2\E-R ejercicio 2\obj\Debug\netcoreapp2.0\E-R ejercicio 2.dll
+E:\univalle\practica\E-R ejercicio 2\E-R ejercicio 2\obj\Debug\netcoreapp2.0\E-R ejercicio 2.pdb
+E:\univalle\practica\E-R ejercicio 2\E-R ejercicio 2\bin\Debug\netcoreapp2.0\E-R ejercicio 2.deps.json
+E:\univalle\practica\E-R ejercicio 2\E-R ejercicio 2\bin\Debug\netcoreapp2.0\E-R ejercicio 2.runtimeconfig.json
+E:\univalle\practica\E-R ejercicio 2\E-R ejercicio 2\bin\Debug\netcoreapp2.0\E-R ejercicio 2.runtimeconfig.dev.json
+E:\univalle\practica\E-R ejercicio 2\E-R ejercicio 2\bin\Debug\netcoreapp2.0\E-R ejercicio 2.dll
+E:\univalle\practica\E-R ejercicio 2\E-R ejercicio 2\bin\Debug\netcoreapp2.0\E-R ejercicio 2.pdb

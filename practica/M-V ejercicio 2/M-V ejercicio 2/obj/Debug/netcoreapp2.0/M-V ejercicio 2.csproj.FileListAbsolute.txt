@@ -1,0 +1,11 @@
+E:\univalle\practica\M-V ejercicio 2\M-V ejercicio 2\obj\Debug\netcoreapp2.0\M-V ejercicio 2.csprojResolveAssemblyReference.cache
+E:\univalle\practica\M-V ejercicio 2\M-V ejercicio 2\obj\Debug\netcoreapp2.0\M-V ejercicio 2.csproj.CoreCompileInputs.cache
+E:\univalle\practica\M-V ejercicio 2\M-V ejercicio 2\obj\Debug\netcoreapp2.0\M-V ejercicio 2.AssemblyInfoInputs.cache
+E:\univalle\practica\M-V ejercicio 2\M-V ejercicio 2\obj\Debug\netcoreapp2.0\M-V ejercicio 2.AssemblyInfo.cs
+E:\univalle\practica\M-V ejercicio 2\M-V ejercicio 2\bin\Debug\netcoreapp2.0\M-V ejercicio 2.deps.json
+E:\univalle\practica\M-V ejercicio 2\M-V ejercicio 2\bin\Debug\netcoreapp2.0\M-V ejercicio 2.runtimeconfig.json
+E:\univalle\practica\M-V ejercicio 2\M-V ejercicio 2\bin\Debug\netcoreapp2.0\M-V ejercicio 2.runtimeconfig.dev.json
+E:\univalle\practica\M-V ejercicio 2\M-V ejercicio 2\bin\Debug\netcoreapp2.0\M-V ejercicio 2.dll
+E:\univalle\practica\M-V ejercicio 2\M-V ejercicio 2\bin\Debug\netcoreapp2.0\M-V ejercicio 2.pdb
+E:\univalle\practica\M-V ejercicio 2\M-V ejercicio 2\obj\Debug\netcoreapp2.0\M-V ejercicio 2.dll
+E:\univalle\practica\M-V ejercicio 2\M-V ejercicio 2\obj\Debug\netcoreapp2.0\M-V ejercicio 2.pdb

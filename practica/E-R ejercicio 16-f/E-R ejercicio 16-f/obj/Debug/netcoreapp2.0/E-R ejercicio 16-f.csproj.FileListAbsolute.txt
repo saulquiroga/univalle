@@ -1,0 +1,11 @@
+E:\univalle\practica\E-R ejercicio 16-f\E-R ejercicio 16-f\obj\Debug\netcoreapp2.0\E-R ejercicio 16-f.csprojResolveAssemblyReference.cache
+E:\univalle\practica\E-R ejercicio 16-f\E-R ejercicio 16-f\obj\Debug\netcoreapp2.0\E-R ejercicio 16-f.csproj.CoreCompileInputs.cache
+E:\univalle\practica\E-R ejercicio 16-f\E-R ejercicio 16-f\obj\Debug\netcoreapp2.0\E-R ejercicio 16-f.AssemblyInfoInputs.cache
+E:\univalle\practica\E-R ejercicio 16-f\E-R ejercicio 16-f\obj\Debug\netcoreapp2.0\E-R ejercicio 16-f.AssemblyInfo.cs
+E:\univalle\practica\E-R ejercicio 16-f\E-R ejercicio 16-f\bin\Debug\netcoreapp2.0\E-R ejercicio 16-f.deps.json
+E:\univalle\practica\E-R ejercicio 16-f\E-R ejercicio 16-f\bin\Debug\netcoreapp2.0\E-R ejercicio 16-f.runtimeconfig.json
+E:\univalle\practica\E-R ejercicio 16-f\E-R ejercicio 16-f\bin\Debug\netcoreapp2.0\E-R ejercicio 16-f.runtimeconfig.dev.json
+E:\univalle\practica\E-R ejercicio 16-f\E-R ejercicio 16-f\bin\Debug\netcoreapp2.0\E-R ejercicio 16-f.dll
+E:\univalle\practica\E-R ejercicio 16-f\E-R ejercicio 16-f\bin\Debug\netcoreapp2.0\E-R ejercicio 16-f.pdb
+E:\univalle\practica\E-R ejercicio 16-f\E-R ejercicio 16-f\obj\Debug\netcoreapp2.0\E-R ejercicio 16-f.dll
+E:\univalle\practica\E-R ejercicio 16-f\E-R ejercicio 16-f\obj\Debug\netcoreapp2.0\E-R ejercicio 16-f.pdb

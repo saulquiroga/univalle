@@ -1,0 +1,22 @@
+D:\programacion 1\practica\E-R ejercicio 1\E-R ejercicio 1\bin\Debug\netcoreapp2.0\E-R ejercicio 1.deps.json
+D:\programacion 1\practica\E-R ejercicio 1\E-R ejercicio 1\bin\Debug\netcoreapp2.0\E-R ejercicio 1.runtimeconfig.json
+D:\programacion 1\practica\E-R ejercicio 1\E-R ejercicio 1\bin\Debug\netcoreapp2.0\E-R ejercicio 1.runtimeconfig.dev.json
+D:\programacion 1\practica\E-R ejercicio 1\E-R ejercicio 1\bin\Debug\netcoreapp2.0\E-R ejercicio 1.dll
+D:\programacion 1\practica\E-R ejercicio 1\E-R ejercicio 1\bin\Debug\netcoreapp2.0\E-R ejercicio 1.pdb
+D:\programacion 1\practica\E-R ejercicio 1\E-R ejercicio 1\obj\Debug\netcoreapp2.0\E-R ejercicio 1.csprojResolveAssemblyReference.cache
+D:\programacion 1\practica\E-R ejercicio 1\E-R ejercicio 1\obj\Debug\netcoreapp2.0\E-R ejercicio 1.csproj.CoreCompileInputs.cache
+D:\programacion 1\practica\E-R ejercicio 1\E-R ejercicio 1\obj\Debug\netcoreapp2.0\E-R ejercicio 1.AssemblyInfoInputs.cache
+D:\programacion 1\practica\E-R ejercicio 1\E-R ejercicio 1\obj\Debug\netcoreapp2.0\E-R ejercicio 1.AssemblyInfo.cs
+D:\programacion 1\practica\E-R ejercicio 1\E-R ejercicio 1\obj\Debug\netcoreapp2.0\E-R ejercicio 1.dll
+D:\programacion 1\practica\E-R ejercicio 1\E-R ejercicio 1\obj\Debug\netcoreapp2.0\E-R ejercicio 1.pdb
+E:\univalle\practica\E-R ejercicio 1\E-R ejercicio 1\bin\Debug\netcoreapp2.0\E-R ejercicio 1.deps.json
+E:\univalle\practica\E-R ejercicio 1\E-R ejercicio 1\bin\Debug\netcoreapp2.0\E-R ejercicio 1.runtimeconfig.json
+E:\univalle\practica\E-R ejercicio 1\E-R ejercicio 1\bin\Debug\netcoreapp2.0\E-R ejercicio 1.runtimeconfig.dev.json
+E:\univalle\practica\E-R ejercicio 1\E-R ejercicio 1\bin\Debug\netcoreapp2.0\E-R ejercicio 1.dll
+E:\univalle\practica\E-R ejercicio 1\E-R ejercicio 1\bin\Debug\netcoreapp2.0\E-R ejercicio 1.pdb
+E:\univalle\practica\E-R ejercicio 1\E-R ejercicio 1\obj\Debug\netcoreapp2.0\E-R ejercicio 1.csprojResolveAssemblyReference.cache
+E:\univalle\practica\E-R ejercicio 1\E-R ejercicio 1\obj\Debug\netcoreapp2.0\E-R ejercicio 1.csproj.CoreCompileInputs.cache
+E:\univalle\practica\E-R ejercicio 1\E-R ejercicio 1\obj\Debug\netcoreapp2.0\E-R ejercicio 1.AssemblyInfoInputs.cache
+E:\univalle\practica\E-R ejercicio 1\E-R ejercicio 1\obj\Debug\netcoreapp2.0\E-R ejercicio 1.AssemblyInfo.cs
+E:\univalle\practica\E-R ejercicio 1\E-R ejercicio 1\obj\Debug\netcoreapp2.0\E-R ejercicio 1.dll
+E:\univalle\practica\E-R ejercicio 1\E-R ejercicio 1\obj\Debug\netcoreapp2.0\E-R ejercicio 1.pdb

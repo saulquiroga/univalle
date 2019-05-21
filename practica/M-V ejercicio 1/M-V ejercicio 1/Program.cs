@@ -1,0 +1,71 @@
+﻿using System;
+
+namespace M_V_ejercicio_1
+{
+    class Program
+    {
+        static void Main(string[] args)
+        {
+            int n, i, p, ped;
+            do
+            {
+                Console.Write("cuantos productos se registraran: ");
+                n = Convert.ToInt32(Console.ReadLine());
+            }while(n < 1);
+            int[] a = new int[n];
+            int[] b = new int[n];
+            int[] c = new int[n];
+            for (i = 0; i < n; i++)
+            {
+                do
+                {
+                    Console.Write("cuanta es la cantidad del producto se tiene: ");
+                    p = Convert.ToInt32(Console.ReadLine());
+                } while (p <= 0);
+                a[i] = p;
+            }
+            for(i=0;i < n; i++)
+            {
+                do
+                {
+                    Console.Write("cuantos pedidos se iso: ");
+                    ped = Convert.ToInt32(Console.ReadLine());
+                } while (ped <= 0);
+                b[i] = ped;
+            }
+            for (i = 0; i < n; i++)
+            {
+                if (a[i] == b[i])
+                {
+                    c[i] = a[i];
+                }
+                else
+                {
+                    if (a[i] > b[i])
+                    {
+                        c[i] = b[i];
+                    }
+                    else
+                    {
+                        c[i] = (b[i] - a[i]) * 2;
+                    }
+                }
+            }
+            for (i = 0; i < n; i++)
+            {
+                Console.Write("\t"+a[i]);
+            }
+            Console.WriteLine();
+            for (i = 0; i < n; i++)
+            {
+                Console.Write("\t"+b[i]);
+            }
+            Console.WriteLine();
+            for (i = 0; i < n; i++)
+            {
+                Console.Write("\t"+c[i]);
+            }
+            Console.ReadKey();
+        }
+    }
+}
